@@ -41,9 +41,6 @@
         <resources>
             <resource>
                 <directory>${project.build.directory}/dependency</directory>
-                <includes>
-                    <include>*.jar</include>
-                </includes>
                 <targetPath>lib/</targetPath>
             </resource>
         </resources>
